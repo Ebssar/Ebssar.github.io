@@ -7,9 +7,13 @@ This website is a documentary of all the projects by the Ebssar team.
 <br>
 <br>
 
+<a href="/pong.md">
+
 ### Pong game
 
 <img src="/pong.png">
+
+</a>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
