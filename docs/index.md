@@ -8,12 +8,10 @@ This website is a documentary of all the projects by the Ebssar team.
 <br>
 
 
-<a href="/pong.md">
-### Pong game
-</a>
+### [Pong game](/pong.html)
 
-<a href="/pong.md">
-<img src="/pong.png">
+<a href="/pong.html">
+<img src="/pong.png" />
 </a>
 
 
